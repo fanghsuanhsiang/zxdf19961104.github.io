@@ -1,0 +1,15 @@
+.grid-item{
+  width: 200px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 3px #999;
+  box-sizing: border-box;
+}
+.grid-item img {
+  width: 100%;
+}
+.grid{
+  margin-top: 100px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
